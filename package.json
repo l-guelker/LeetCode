@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-problems",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec ts-node 80.remove-duplicates-from-sorted-array-ii.ts"
+  },
+  "keywords": [],
+  "author": "lguelker",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
