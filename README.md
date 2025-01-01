@@ -8,7 +8,7 @@
 
 
 
-<img style="float: left; padding-right: 1rem" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png">
+<img align="left" style="padding-right: 1rem" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png">
 
 ### [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
