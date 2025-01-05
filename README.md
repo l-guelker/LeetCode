@@ -12,7 +12,7 @@
 
 ### [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
-**12/150**
+**13/150**
 
 ---
 
